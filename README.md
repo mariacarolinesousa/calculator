@@ -1,5 +1,5 @@
 # calculator
-Criei uma calculadora em Python para exercitar o Raciocínio Lógico 
+calculadora em Python para exercitar o Raciocínio Lógico 
 
 # Descrição:
 Calculadora simples feita em Python 
